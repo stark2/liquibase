@@ -5,4 +5,5 @@
     <include file="src/main/resources/liquibase/db-changelog-1_1_15.xml"/>
     <include file="src/main/resources/liquibase/db-changelog-1_1_21.xml"/>
     <include file="src/main/resources/liquibase/db-changelog-1_1_25.xml"/>
+    <include file="src/main/resources/liquibase/db-changelog-1_2_0.xml"/>
 </databaseChangeLog>
